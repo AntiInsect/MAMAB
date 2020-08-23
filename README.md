@@ -1,2 +1,2 @@
 # MAMAB
-Research on Multi-agent Multi-arm Bandits problem start from Summer 2020
+Selaginella (JuanBai), this repo contains my research on Multi-agent (player) Multi-armed Bandits starting from Summer 2020
